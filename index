@@ -1,0 +1,118 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+	<link rel="stylesheet" href="reset.css">
+	<link rel="stylesheet" href="style.css">
+	<link href="https://fonts.googleapis.com/css2?family=Courgette&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://use.typekit.net/nef2ymr.css">
+<title>Awesome Kitchen</title>
+</head>
+
+<body>
+<div class="fv">
+  <div class="filter-black">
+    <div class="contents">
+      <h1>Awesome Kitchen</h1>
+      <p>resto restaurant home page website template</p>
+    </div>
+    </div>
+</div>
+<header>
+	<div class="head">
+		<img src="img/Logo.png" alt="ロゴ">
+		<div class="header-menu">
+		<ul>
+			<li><a href="#">Our Story</a></li>
+			<li><a href="#">Menu</a></li>
+			<li><a href="#">Reservations</a></li>
+			<li><a href="#">News</a></li>
+			<li><a href="#">Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+	</header>
+<div class="menu">
+  <div class="menu-ribbon">
+	  <div class="text"><h3>The MENU</h3></div>
+      <div class="ribbon"></div>
+  </div>
+  <div class="contents">
+	<ul class="tab-reader">
+<li class="flex">
+<span class="tab-reader-box1">Voluptate cillum fugiat.<br>
+	<span class="material">Cheese, tomato, mushrooms, onions.</span></span>
+<span class="tab-reader-box2"><hr class="tab-r-line"></span>
+<span class="tab-reader-box3">$50</span>
+</li>
+<li class="flex">
+<span class="tab-reader-box1">Arcu pede enim justo.<br>
+	<span class="material">Tuna, Sweetcorn, Cheese.</span></span>
+<span class="tab-reader-box2"><hr class="tab-r-line"></span>
+<span class="tab-reader-box3">$45</span>
+</li>
+<li class="flex">
+<span class="tab-reader-box1"><span class="name">Metus varius laoreet.</span><br>
+	<span class="material">Chicken, mozzarella cheese, onions.</span></span>
+<span class="tab-reader-box2"><hr class="tab-r-line"></span>
+<span class="tab-reader-box3">$62</span>
+</li>
+<li class="flex">
+<span class="tab-reader-box1"><span class="name">Cras dapibussemper nisi.</span><br>
+	<span class="material">Pineapple, Minced Beef, Cheese.</span></span>
+<span class="tab-reader-box2"><hr class="tab-r-line"></span>
+<span class="tab-reader-box3">$32</span>
+</li>
+<li class="flex">
+<span class="tab-reader-box1"><span class="name">Donec sodales magna.</span><br>
+	<span class="material">Tuna, Sweetcorn, Cheese.</span></span>
+<span class="tab-reader-box2"><hr class="tab-r-line"></span>
+<span class="tab-reader-box3">$25</span>
+</li>
+<li class="flex">
+<span class="tab-reader-box1"><span class="name">Arcu pede enim justo.</span><br>
+	<span class="material">Tuna, Sweetcorn, Cheese.</span></span>
+<span class="tab-reader-box2"><hr class="tab-r-line"></span>
+<span class="tab-reader-box3">$45</span>
+</li>
+<li class="flex">
+<span class="tab-reader-box1">Metus varius laoreet.<br>
+	<span class="material">Chicken, mozzarella cheese, onions.</span></span>
+<span class="tab-reader-box2"><hr class="tab-r-line"></span>
+<span class="tab-reader-box3">$62</span>
+</li>
+<li class="flex">
+<span class="tab-reader-box1">Cras dapibussemper nisi.<br>
+	<span class="material">Pineapple, Minced Beef, Cheese.</span></span>
+<span class="tab-reader-box2"><hr class="tab-r-line"></span>
+<span class="tab-reader-box3">$32</span>
+</li>
+</ul>
+<div class="cb"></div>
+<div class="button"><div class="loadmore">load more</div>
+	<img src="img/arrow.svg" alt=""></div>
+<div class="cb"></div>
+  </div>
+</div>
+<div class="featured-dishes">
+<div class="contents">
+<div class="featured-title">
+	<div>FEATURED DISHES</div>
+	<div class="border"></div>
+	<div class="free"></div>
+	<div class="dots">
+	<div class="dot"></div>
+	<div class="dot"></div>
+	<div class="dot"></div>
+	<div class="dot"></div></div>
+	</div>
+  </div>
+</div>
+<div class="gallery">
+  <div class="contents"></div>
+</div>
+<footer>
+  <div class="contents"></div>
+</footer>
+</body>
+</html>
